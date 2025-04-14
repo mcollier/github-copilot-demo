@@ -1,0 +1,7 @@
+lib/
+node_modules/
+bin/
+obj/
+
+# Ignore python files
+__pycache__/
