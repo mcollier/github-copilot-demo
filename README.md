@@ -164,10 +164,12 @@ Demonstrate how Copilot helps write unit tests quickly.
 ### Steps
 
 1. Show `/test` to write a unit test.
-1. Show using the GitHub Copilot Agent.
+1. Show using the GitHub Copilot Agent. Use **Claude 3.5 Sonnet**.
+1. Show the use of the _copilot-instructions.md_ file.
+1. Creat the tests.
 
    ```text
-   Create unit tests for Program.cs using xUnit. The tests should be in a new folder named tests the existing 4-generate-test folder. Create a corresponding xunit project file and include it in the existing solution file ShoppingCart.sln. Use the most recent NuGet packages.
+   Create unit tests for my project.
    ```
 
 1. Let Copilot write the test.

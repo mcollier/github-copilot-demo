@@ -24,7 +24,8 @@
         "davidanson.vscode-markdownlint",
         "ms-python.python",
         "ms-dotnettools.csdevkit",
-        "humao.rest-client"
+        "humao.rest-client",
+        "ms-azuretools.vscode-azure-github-copilot"
       ]
     }
   }
